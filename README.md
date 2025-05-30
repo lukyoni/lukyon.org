@@ -12,7 +12,7 @@ Hello! I'm lukyon. This website was inspired by https://pea.moe. There is curren
         -t lukyon.org:latest                     \
         .
     ```
-2. Run docker
+2. Run docker container
     ```
     docker run                          \
         --detach                        \
